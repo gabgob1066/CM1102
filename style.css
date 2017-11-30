@@ -3,6 +3,11 @@
         font-size:0.7em;
     }
 }
+html, 
+body {
+    height: 100%;
+    width:100%;
+}
 body{
     background: #003; /* For browsers that do not support gradients */
     background: -webkit-linear-gradient(left top, #003, #445); /* For Safari 5.1 to 6.0 */
